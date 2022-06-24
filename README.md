@@ -1,4 +1,4 @@
-## Chat App
+## Chat App Using Socket.io
 
 Built with:
 - Server side: Node.js, Socket.io, Express
